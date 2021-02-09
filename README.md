@@ -58,3 +58,4 @@ runs the segmentation and tracking pipeline on all tif stacks in `indir` and sav
 ├── mask023.tif
 ├── mask028.tif
 ```
+For latest code updates, please follow this link https://github.com/s-shailja/ucsb_ctc.
